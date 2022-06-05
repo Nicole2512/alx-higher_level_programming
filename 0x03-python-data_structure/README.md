@@ -1,2 +1,2 @@
 
-Data structres
+Data structures
