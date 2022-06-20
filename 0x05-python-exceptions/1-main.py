@@ -24,7 +24,7 @@ if not has_been_print:
 
                 
 
-                value = "School"
+                value = "Holberton"
 
                 has_been_print = safe_print_integer(value)
 
